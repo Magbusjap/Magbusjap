@@ -42,7 +42,7 @@ Currently building real projects, studying full-time, and looking for my first c
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Magbusjap&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Magbusjap&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
