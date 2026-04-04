@@ -43,14 +43,14 @@ Currently building real projects, studying full-time, and looking for my first c
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magbusjap&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magbusjap&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Magbusjap&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Magbusjap&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-[![hh.ru](https://img.shields.io/badge/hh.ru-E8001D?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/YOUR_RESUME_ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![hh.ru](https://img.shields.io/badge/hh.ru-E8001D?style=for-the-badge&logo=headhunter&logoColor=white)](https://perm.hh.ru/resume/93bac386ff104e06c90039ed1f4848364d424a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-ankudinov/)
 [![Website](https://img.shields.io/badge/bozheslav.ru-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://bozheslav.ru)
