@@ -21,6 +21,8 @@ Currently building real projects, studying full-time, and looking for my first c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MJML](https://img.shields.io/badge/MJML-4.x-E94B3C?logo=mjml&logoColor=white)
+
 
 **Backend**
 
