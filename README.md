@@ -67,11 +67,12 @@ Goal: **C1**.
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Magbusjap&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Magbusjap&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Magbusjap/Magbusjap/output/github-contribution-grid-snake-dark.svg" />
 </p>
